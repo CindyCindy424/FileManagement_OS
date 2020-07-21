@@ -1,0 +1,42 @@
+Hello~ Welcome
+184B
+txt
+root\New text.txt
+2020/7/11 21:43:54
+1
+9
+This system support all kind of English Input
+16B
+txt
+root\New text.txt
+2020/7/11 21:44:33
+2
+5
+Cindy's Folder01
+0
+folder
+root\New folder
+2020/7/11 21:45:23
+3
+-1
+FILE02
+56B
+txt
+root\New folder\New text.txt
+2020/7/11 21:45:35
+4
+6
+Level02
+0
+folder
+root\New folder\New folder
+2020/7/11 21:45:51
+5
+-1
+Cindy's File~
+28B
+txt
+root\New folder\New folder\New text.txt
+2020/7/11 21:45:59
+6
+8
